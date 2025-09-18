@@ -1,2 +1,2 @@
--r dev.txt
--r prod.txt
+-r development.txt
+-r production.txt
